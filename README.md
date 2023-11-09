@@ -1,5 +1,5 @@
 # iLearnSupervise
-This repository contains my implementations and notes from the Supervised Learning section of the [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction){:target="_blank"}.
+This repository contains my implementations and notes from the Supervised Learning section of the [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction).
 
 
 ## Table of Contents
